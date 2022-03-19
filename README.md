@@ -14,7 +14,8 @@
   Number of Instances: 109,446 (Train: 80 % and Test: 20 %) <br>
   Number of Attributes: 187 
 <br>
-  
-Author: Rauf Momin
-License: MIT License
-Email: raufmomin26@gmail.com
+
+
+Author: Rauf Momin <br>
+License: MIT License <br>
+Email: raufmomin26@gmail.com <br>
