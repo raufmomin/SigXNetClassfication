@@ -1,10 +1,4 @@
-# SigXNet for ECG and EEG Classification
-
-Author: Rauf Momin
-
-License: MIT License
-
-Email: raufmomin26@gmail.com
+# SigXNet for Electrical Activity Signals Classification (ECG & EEG)
 
 ### Dataset Reference:
 
@@ -18,7 +12,9 @@ Email: raufmomin26@gmail.com
   Heart Arrhythmia Detection <br>
   Source: Physionet's MIT-BIH Arrhythmia Dataset <br>
   Number of Instances: 109,446 (Train: 80 % and Test: 20 %) <br>
-  Number of Attributes: 187 <br>
-
-### Dataset download source:
-  https://www.kaggle.com/raufmomin/eeg-and-ecg-datasets
+  Number of Attributes: 187 
+<br>
+  
+Author: Rauf Momin
+License: MIT License
+Email: raufmomin26@gmail.com
