@@ -1,5 +1,6 @@
-# SigXNet for Electrical Activity Signals Classification (ECG & EEG)
+## SigXNet for Electrical Activity Signals Classification (ECG & EEG)
 
+This repository includes, sigxnet model implementation, model training pipelines, models evaluation, and comparison of proposed deep learning network with traditional machine learning techniques.
 ### Dataset Reference:
 
   For EEG Classification: <br>
